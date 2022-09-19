@@ -27,7 +27,7 @@ public class Properties {
 	 public static final String TITLE_LABEL = "Title";
 	 public static final String ACTOR_LABEL = "Actor";
 	 public static final String ACTRESS_LABEL = "Actress";
-	 public static final String FILE_PATH_OUTPUT_PROPERTY = "C:\\INSERT PATH HERE\\Properties.rdf";
+	 public static final String FILE_PATH_OUTPUT_PROPERTY = "INSERT PATH HERE\\Properties.rdf";
 	 
 	 public static void main(String[] args) {	        
 		 Properties properties = new Properties();
