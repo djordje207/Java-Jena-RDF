@@ -17,8 +17,8 @@ import java.util.List;
 import java.util.UUID;
 
 public class Films {
-	 public static final String FILE_PATH_INPUT_FILMS = "C:\\INSERT PATH HERE\\Movie.csv";
-	 public static final String FILE_PATH_OUTPUT_FILMS = "C:\\INSERT PATH HERE\\Movies.rdf";
+	 public static final String FILE_PATH_INPUT_FILMS = "INSERT PATH HERE\\Movie.csv";
+	 public static final String FILE_PATH_OUTPUT_FILMS = "INSERT PATH HERE\\Movies.rdf";
 	 List<String> list;
 	 RDFNode actor;
 	 RDFNode actress;
