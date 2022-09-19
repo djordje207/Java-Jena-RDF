@@ -18,8 +18,8 @@ import java.util.List;
 
 
 public class Classes {
-	 public static final String FILE_PATH_INPUT_CLASS = "C:\\INSERT PATH HERE\\Class.csv";
-	 public static final String FILE_PATH_OUTPUT_CLASS = "C:\\INSERT PATH HERE\\Classes.rdf";
+	 public static final String FILE_PATH_INPUT_CLASS = "INSERT PATH HERE\\Class.csv";
+	 public static final String FILE_PATH_OUTPUT_CLASS = "INSERT PATH HERE\\Classes.rdf";
 	 List<String> list;
 	 public static final String CLASS = "rdfs:Class";
 	
