@@ -2,7 +2,7 @@
 
 The purpose of this project is modeling of flexible and expandable data model from input tabular data. RDF/XML is one of the most popular RDF formats of serialization for data storage and transmission.
 Before running:
-- Download latest jena-fuseki (https://jena.apache.org/download/index.cgi) in order to be able to run local fuseki server (usually localhost:3030)
+- Download latest jena-fuseki (https://jena.apache.org/download/index.cgi) in order to be able to run local fuseki server (usually localhost:3030). Create dataset on local fuseki server
 - Change the routes of FILE_INPUTs and FILE_OUTPUTs in the following files: Classes.java, Properties.java, Values.java, Films.java
 - Change the name of dataset in QueryUtil.java (in this code the name is "test" (line 12), it is important that name is the same as one of the dataset created on localhost:3030)
 The way to run the project:
